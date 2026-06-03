@@ -1,6 +1,6 @@
 # telemetry-performance-analytics
 
-# Telemetry Performance Analytics Dashboard
+# Telemetry Performance Analytics 
 
 ## Overview
 
