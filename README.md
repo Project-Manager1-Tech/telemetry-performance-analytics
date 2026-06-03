@@ -1,4 +1,3 @@
-# telemetry-performance-analytics
 
 # Telemetry Performance Analytics 
 
